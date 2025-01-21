@@ -1,37 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\BCA\\Desktop\\Algorithm\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{CF7C271F-9332-40BE-9EE1-C33E834339FC}|Algorithm\\Algorithm.vcxproj|C:\\Users\\BCA\\Desktop\\Algorithm\\Algorithm\\11720.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CF7C271F-9332-40BE-9EE1-C33E834339FC}|Algorithm\\Algorithm.vcxproj|solutionrelative:Algorithm\\11720.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "11720.cpp",
-              "DocumentMoniker": "C:\\Users\\BCA\\Desktop\\Algorithm\\Algorithm\\11720.cpp",
-              "RelativeDocumentMoniker": "Algorithm\\11720.cpp",
-              "ToolTip": "C:\\Users\\BCA\\Desktop\\Algorithm\\Algorithm\\11720.cpp",
-              "RelativeToolTip": "Algorithm\\11720.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-20T09:33:25.692Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
