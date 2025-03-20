@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\space\\Desktop\\Algorithm\\",
+  "WorkspaceRootPath": "C:\\Users\\BCA\\Desktop\\Algorithm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CF7C271F-9332-40BE-9EE1-C33E834339FC}|Algorithm\\Algorithm.vcxproj|C:\\Users\\space\\Desktop\\Algorithm\\Algorithm\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CF7C271F-9332-40BE-9EE1-C33E834339FC}|Algorithm\\Algorithm.vcxproj|solutionrelative:Algorithm\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{CF7C271F-9332-40BE-9EE1-C33E834339FC}|Algorithm\\Algorithm.vcxproj|C:\\Users\\BCA\\Desktop\\Algorithm\\Algorithm\\QuickSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF7C271F-9332-40BE-9EE1-C33E834339FC}|Algorithm\\Algorithm.vcxproj|solutionrelative:Algorithm\\QuickSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF7C271F-9332-40BE-9EE1-C33E834339FC}|Algorithm\\Algorithm.vcxproj|C:\\Users\\BCA\\Desktop\\Algorithm\\Algorithm\\1157.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF7C271F-9332-40BE-9EE1-C33E834339FC}|Algorithm\\Algorithm.vcxproj|solutionrelative:Algorithm\\1157.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "test.cpp",
-              "DocumentMoniker": "C:\\Users\\space\\Desktop\\Algorithm\\Algorithm\\test.cpp",
-              "RelativeDocumentMoniker": "Algorithm\\test.cpp",
-              "ToolTip": "C:\\Users\\space\\Desktop\\Algorithm\\Algorithm\\test.cpp",
-              "RelativeToolTip": "Algorithm\\test.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "QuickSort.cpp",
+              "DocumentMoniker": "C:\\Users\\BCA\\Desktop\\Algorithm\\Algorithm\\QuickSort.cpp",
+              "RelativeDocumentMoniker": "Algorithm\\QuickSort.cpp",
+              "ToolTip": "C:\\Users\\BCA\\Desktop\\Algorithm\\Algorithm\\QuickSort.cpp",
+              "RelativeToolTip": "Algorithm\\QuickSort.cpp",
+              "ViewState": "AQIAAAoAAAAAAAAAAADwvxgAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-21T13:14:02.438Z",
+              "WhenOpened": "2025-02-26T05:34:48.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "1157.cpp",
+              "DocumentMoniker": "C:\\Users\\BCA\\Desktop\\Algorithm\\Algorithm\\1157.cpp",
+              "RelativeDocumentMoniker": "Algorithm\\1157.cpp",
+              "ToolTip": "C:\\Users\\BCA\\Desktop\\Algorithm\\Algorithm\\1157.cpp",
+              "RelativeToolTip": "Algorithm\\1157.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-23T10:53:46.113Z",
               "EditorCaption": ""
             }
           ]
